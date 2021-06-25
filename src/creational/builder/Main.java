@@ -1,4 +1,8 @@
-package creational.builder.classes;
+package creational.builder;
+
+import creational.builder.classes.MainDishBuilder;
+import creational.builder.classes.MealBox;
+import creational.builder.classes.VeganDishBuilder;
 
 public class Main {
 

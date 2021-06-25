@@ -33,7 +33,7 @@ public class VeganDishBuilder implements MealBuilderProtocol {
 	}
 
 	public MealBox getMeal() {
-		return meal;
+		return this.meal;
 	}
 
 	public MealBuilderProtocol reset() {
