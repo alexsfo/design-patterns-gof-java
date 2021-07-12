@@ -3,10 +3,10 @@ package creational.factoryMethod;
 import creational.factoryMethod.factories.BicycleFactory;
 import creational.factoryMethod.factories.CarFactory;
 import creational.factoryMethod.utils.RandomNumbers;
+import creational.factoryMethod.utils.RandomVehicleAlgorithm;
 import creational.factoryMethod.vehicle.Vehicle;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class ClientCode {

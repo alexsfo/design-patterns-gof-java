@@ -1,4 +1,4 @@
-package creational.factoryMethod;
+package creational.factoryMethod.utils;
 
 import creational.factoryMethod.factories.BicycleFactory;
 import creational.factoryMethod.factories.CarFactory;
