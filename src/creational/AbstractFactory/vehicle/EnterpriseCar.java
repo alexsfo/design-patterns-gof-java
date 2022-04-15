@@ -14,6 +14,6 @@ public class EnterpriseCar implements Vehicle {
 
     @Override
     public void pickup() {
-        System.out.println("está buscando " + this.customer.);
+        System.out.println("está buscando " + this.customer.toString());
     }
 }
